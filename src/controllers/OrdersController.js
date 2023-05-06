@@ -1,4 +1,3 @@
-// Knex Import
 const knex = require("../database/knex");
 
 class OrdersController {
