@@ -7,7 +7,7 @@
 ### Para clonar o projeto
 
 ```
-git clone https://github.com/douglasrosso/foodexplorer-api.git
+git clone https://github.com/douglasrosso/FoodExplorer-api.git
 ```
 
 ### Para instalar as dependências, é necessário entrar na pasta
@@ -53,7 +53,7 @@ Porém você precisa da api rodando local, (não consegui achar uma plataforma g
 * Caso deseja rodar localmente, siga as instruções para rodar o projeto Food Explorer front-end abaixo
 
 ```
-https://github.com/douglasrosso/foodexplorer-front
+https://github.com/douglasrosso/FoodExplorer-front
 ```
 
 ### Para logar como admin
