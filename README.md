@@ -7,7 +7,7 @@
 ### Para clonar o projeto
 
 ```
-git clone https://github.com/douglasrosso/FoodExplorer-api.git
+git clone https://github.com/douglasrosso/foodexplorer-api.git
 ```
 
 ### Para instalar as dependências, é necessário entrar na pasta
@@ -45,7 +45,7 @@ Server is running on Port 3333
 ### Vale lembrar, que o front-end pode ser acessado todo pelo VERCEL
 
 ```
-https://food-explorer-delta.vercel.app/
+https://food-explorer-rocketseat.vercel.app/
 ```
 
 Porém você precisa da api rodando local, (não consegui achar uma plataforma gratuita para hospedar o back-end)
@@ -53,7 +53,7 @@ Porém você precisa da api rodando local, (não consegui achar uma plataforma g
 * Caso deseja rodar localmente, siga as instruções para rodar o projeto Food Explorer front-end abaixo
 
 ```
-https://github.com/douglasrosso/FoodExplorer-front
+https://github.com/douglasrosso/foodexplorer-front
 ```
 
 ### Para logar como admin
